@@ -1,0 +1,19 @@
+.postContainer{
+    width:30vw;
+    margin-left:6vw;
+    margin-top: 80px;
+}
+.postHeader{
+    display:flex;
+    justify-content: flex-start;
+    gap: 10px;
+    height:50px;
+    align-items: center;
+    width:100%;
+}
+.postMain{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+
+}
